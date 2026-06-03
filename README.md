@@ -1,3 +1,6 @@
+![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-red)
+![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-blue)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-green)
 ## Hi, I'm Kerima 👋
 
 IT Support and Cybersecurity Professional
