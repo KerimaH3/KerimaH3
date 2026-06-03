@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hi, I'm Kerima 👋
 
-<!--
-**KerimaH3/KerimaH3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Support and Cybersecurity Professional
 
-Here are some ideas to get you started:
+## Certifications
+- CompTIA A+
+- CompTIA Network+
+- CompTIA Security+
+- Google Cybersecurity Certificate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Active Directory
+- Windows Server 2022
+- DNS
+- User & Group Management
+- NTFS Permissions
+- Remote Support
+- Ticketing Systems
+- Troubleshooting
+- Windows 11
+- Networking
+
+## Featured Projects
+
+### Active Directory User Management Lab
+Built a Windows Server 2022 Active Directory environment with DNS, OUs, user management, security groups, shared folders, NTFS permissions, and domain authentication.
+
+### Remote IT Support Lab
+Used AnyDesk to practice remote troubleshooting, software installation, file transfer, and remote desktop support.
+
+### Spiceworks Ticketing System Lab
+Created and resolved help desk tickets while practicing prioritization, documentation, user communication, and troubleshooting workflows.
+
+## Career Goals
+Seeking opportunities in IT Support, Help Desk, Desktop Support, and Cybersecurity.
+
+## Connect With Me
+- LinkedIn: (add your LinkedIn URL)
