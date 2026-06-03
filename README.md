@@ -3,9 +3,9 @@
 IT Support and Cybersecurity Professional
 
 ## Certifications
-- CompTIA A+
-- CompTIA Network+
 - CompTIA Security+
+- CompTIA Network+
+- CompTIA A+
 - Google Cybersecurity Certificate
 
 ## Technical Skills
@@ -35,4 +35,7 @@ Created and resolved help desk tickets while practicing prioritization, document
 Seeking opportunities in IT Support, Help Desk, Desktop Support, and Cybersecurity.
 
 ## Connect With Me
-- LinkedIn: (add your LinkedIn URL)
+- LinkedIn: www.linkedin.com/in/kerima
+  
+
+
