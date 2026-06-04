@@ -7,22 +7,11 @@
 IT Support and Cybersecurity Professional
 
 ## Certifications
-- CompTIA Security+
-- CompTIA Network+
-- CompTIA A+
-- Google Cybersecurity Certificate
+CompTIA Security+ | CompTIA Network+ | CompTIA A+ 
 
 ## Technical Skills
-- Active Directory
-- Windows Server 2022
-- DNS
-- User & Group Management
-- NTFS Permissions
-- Remote Support
-- Ticketing Systems
-- Troubleshooting
-- Windows 11
-- Networking
+Active Directory | Windows Server 2022 | DNS | User & Group Management | NTFS Permissions | Remote Support
+Ticketing Systems | Troubleshooting | Windows 11 | Networking
 
 ## Featured Projects
 
